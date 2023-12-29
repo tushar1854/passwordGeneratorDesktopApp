@@ -5,7 +5,7 @@ Setp1:
 git clone https://github.com/tushar1854/passwordGeneratorDesktopApp.git
 
 Step2:
-cd turtleCrossingGame
+cd passwordGeneratorDesktopApp
 
 Step3:
 pip install pyperclip
